@@ -1,4 +1,10 @@
+body {
+  background-image: url(circle-blues.png);
+}
 
+.container {
+  background-color: aliceblue;
+}
 
 .wrapper {
     column-count: 1;
